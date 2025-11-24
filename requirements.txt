@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+feedparser
+textblob
+textblob-fr
+plotly
+streamlit-aggrid
+numpy
